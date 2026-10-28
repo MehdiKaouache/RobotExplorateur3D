@@ -18,3 +18,5 @@
 *.tmp
 *.pidb
 *.booproj
+# Skybox 323 Mo : trop gros pour GitHub (reste sur le disque et dans le ZIP de remise)
+/Assets/Gece Studio/Galaxy Skybox - Free/Skybox/T_GalaxySkybox01.exr
